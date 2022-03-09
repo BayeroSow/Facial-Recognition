@@ -10,7 +10,7 @@ This is a facial recognition systems that can be used to identify people in phot
 
 # Tech Stack
 - Jupyter Notebook
-- Tensorflow, 
+- Tensorflow
 
 
 # Schema
