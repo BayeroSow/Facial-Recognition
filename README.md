@@ -1,9 +1,9 @@
 # Facial Recognition
-This is a facial recognition systems that can be used to identify people in photos, videos, or in real-time.
+This is a facial recognition system that can be used to identify people in photos, videos, or in real-time.
 
 # Requirements
 - it can be use to unlock phones
-- it can be to tracking student or worker attendance
+- it can be use to tracking student or worker attendance
 - it can be use to Recognizing drivers
 - it can be use for healthcare porpse
 
