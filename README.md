@@ -7,11 +7,9 @@ This is a facial recognition system that can be used to identify people in photo
 - it can be use to Recognizing drivers
 - it can be use for healthcare porpse
 
-
 # Tech Stack
 - Jupyter Notebook
 - Tensorflow
-
 
 # Schema
 
@@ -34,4 +32,3 @@ This app assumes there is only one user for each facial detection. user images i
 - text: textfield
 - createdAt: timestamp
 - updatedAt: timestamp
-
