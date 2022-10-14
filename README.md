@@ -1,6 +1,6 @@
 # Facial Recognition
 This is a facial recognition system that can be used to identify people in photos, videos, or in real-time.
-This is a facial recognition system tha can be use to identify people in photos, videos, or in real time
+This is a facial recognition system tha can be use to identify people in photos, videos, or in real-time.
 
 # Requirements
 - it can be use to unlock phones
